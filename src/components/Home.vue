@@ -5,7 +5,7 @@
     <p id="totals">
         {{stats.hashRate}} hashes/s
        <div class="">
-        Tổng: {{stats.totalHashes}}
+        Tổng: {{stats.totalHashes}}, Accepted hashes: {{stats.acceptedHashes}}
        </div>
        <h5 class="difficulty">
          1 XMR: ~{{avgBlockTime.years}} yrs (w/ độ khó: 46B) <a target="_blank" href="https://www.reddit.com/r/MoneroMining/wiki/index">(chi tiết)</a>
