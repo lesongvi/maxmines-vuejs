@@ -10,11 +10,11 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "keen-ui": "^1.0.1",
-    "vue": "^2.4.4",
-    "vue-d3-network": "^0.1.24",
-    "vue-router": "^3.0.1",
-    "vuex": "^3.0.1"
+    "keen-ui": "^1.2.1",
+    "vue": "^2.6.11",
+    "vue-d3-network": "^0.1.28",
+    "vue-router": "^3.1.5",
+    "vuex": "^3.1.2"
   },
   "browserslist": [
     "> 1%",
@@ -22,16 +22,16 @@
     "not ie <= 8"
   ],
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "babel-preset-env": "^1.6.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-stage-3": "^6.24.1",
-    "cross-env": "^5.0.5",
-    "css-loader": "^0.28.7",
-    "file-loader": "^1.1.4",
-    "vue-loader": "^13.0.5",
-    "vue-template-compiler": "^2.4.4",
-    "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.9.1"
+    "cross-env": "^5.2.1",
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "vue-loader": "^13.7.3",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^2.11.5"
   }
 }
