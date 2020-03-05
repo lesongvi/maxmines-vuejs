@@ -12,3 +12,6 @@ npm install
 npm run dev
 npm run build
 ```
+
+## To do
+Cập nhật độ khó bằng [API MaxMines](https://maxmines.com/documentation/http-api)
