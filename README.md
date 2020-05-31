@@ -15,3 +15,6 @@ npm run build
 
 ## To do
 Cập nhật độ khó bằng [API MaxMines](https://maxmines.com/documentation/http-api)
+
+## Problem?
+Gửi một yêu cầu trợ giúp tại MaxMines
